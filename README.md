@@ -1,1 +1,1 @@
-# git-demo
+Sample creation of repository
